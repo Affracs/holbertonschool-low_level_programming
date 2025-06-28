@@ -3,8 +3,8 @@
 #include <stdio.h>
 
 /**
- * main - Prints whether the number stored in the variable n is positive or negative
- *
+ * main - Prins things
+ * 
  * Return: Always 0 (Success)
  */
 int main(void)
