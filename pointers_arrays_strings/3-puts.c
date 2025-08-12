@@ -2,7 +2,6 @@
 #include "main.h"
 
 /**
- *
  * Main - print the string pointed by char *str with a newline
  *
  * Return - Void (0)
