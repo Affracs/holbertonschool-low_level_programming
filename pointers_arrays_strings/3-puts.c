@@ -2,8 +2,7 @@
 #include "main.h"
 
 /**
- * Main - print the string pointed by char *str with a newline
- *
+ * _puts(char *str) - prints a string str with a newline to stdout
  * Return - Void (0)
  */
 void _puts(char *str)
