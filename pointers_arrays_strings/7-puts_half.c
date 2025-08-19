@@ -3,13 +3,8 @@
 void puts_half(char *str)
 {
 	int len = _strlen(str);
-	int half = (len / 2);
+	int half = (len + 1) / 2;
 	
-	if  (len % 2 != 0)
-	{
-		half++;
-	}
-
 	while (str[half] != '\0')
 	{
 		_putchar(str[half]);
